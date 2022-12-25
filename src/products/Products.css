@@ -1,0 +1,61 @@
+.titre h1{
+    padding-top: 10px;
+    border-bottom: 3px solid black;
+}
+.titre{
+    padding: 50px;
+}
+#sign{
+    background-color: #837f7f;
+    padding: 80px;
+}
+h2{
+    padding-top: 10px;
+}
+input{
+    width: 700px;
+}
+
+#button{
+    padding-top: 20px;
+    
+}
+.sign-in{
+    border-bottom: 3px solid black;
+    padding-top: 10px;
+    border-bottom: 3px solid black;
+    margin-bottom: 20px;
+}
+.prob{
+    margin-right: 25px;
+}
+input {
+width: 310px;
+}
+.login{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+    border:nan
+}
+.ft{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+}
+.ft button{
+    
+    width: 15%;
+    background-color: aqua;
+    
+    height: 40px;
+
+}
+.ft button:first-child{
+    background-color: rgb(92, 118, 237);
+}
+input{
+    margin: 20px 0 ;
+    text-align: center;
+}
